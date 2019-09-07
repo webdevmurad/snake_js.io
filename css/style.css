@@ -16,7 +16,7 @@ body {
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-  background-color: #cccccc;
+  background-color: #FBDA08;
 }
 
 .excel {
@@ -26,19 +26,20 @@ body {
 }
 
 .snakeBody {
-  background-color: #00DE04;
+  background-color: #0C6700;
   background-size: cover;
-  border-radius: 50%;
+  border-radius: 30%;
 }
 
 .head {
-  background-color: #28A000;
+  background-color: #129D00;
   background-size: cover;
-  border-radius: 50%;
+  border-radius: 30%;
 }
 
 .mouse {
-  background: url("../img/rat-silhouette.png");
+  background-color: black;
+  border-radius: 30%;
   background-size: cover;
 }
 /*# sourceMappingURL=style.css.map */
